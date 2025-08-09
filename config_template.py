@@ -9,3 +9,4 @@ HEFENG_JWT_TOKEN = "YOUR_JWT_TOKEN_HERE"
 HEFENG_FORECAST_URL = "https://nm5ctufth6.re.qweatherapi.com/v7/weather/3d"
 HEFENG_NOW_URL = "https://nm5ctufth6.re.qweatherapi.com/v7/weather/now"
 HEFENG_LOCATION_URL = "https://nm5ctufth6.re.qweatherapi.com/v2/city/lookup"
+

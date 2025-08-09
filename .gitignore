@@ -140,3 +140,4 @@ Thumbs.db
 
 # Configuration files with sensitive data
 config.py
+qweatherJWT.py
